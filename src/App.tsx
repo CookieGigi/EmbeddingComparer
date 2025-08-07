@@ -1,9 +1,13 @@
 import "./App.css";
+import { ModeToggle } from "./components/mode-toggle";
+import { ThemeProvider } from "./components/theme-provider";
 
 function App() {
 	return (
 		<>
-			<div>Test</div>
+			<ThemeProvider>
+				<ModeToggle></ModeToggle>
+			</ThemeProvider>
 		</>
 	);
 }
