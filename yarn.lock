@@ -244,6 +244,60 @@
   resolved "https://registry.yarnpkg.com/@bcoe/v8-coverage/-/v8-coverage-1.0.2.tgz#bbe12dca5b4ef983a0d0af4b07b9bc90ea0ababa"
   integrity sha512-6zABk/ECA/QYSCQ1NGiVwwbQerUCZ+TQbp64Q3AgmfNvurHH0j8TtXa1qbShXA6qqkpAj4V5W8pP6mLe1mcMqA==
 
+"@biomejs/biome@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/biome/-/biome-2.1.4.tgz#47a5d4a686ffafc7c2082feeeb09978ba95eb8dd"
+  integrity sha512-QWlrqyxsU0FCebuMnkvBIkxvPqH89afiJzjMl+z67ybutse590jgeaFdDurE9XYtzpjRGTI1tlUZPGWmbKsElA==
+  optionalDependencies:
+    "@biomejs/cli-darwin-arm64" "2.1.4"
+    "@biomejs/cli-darwin-x64" "2.1.4"
+    "@biomejs/cli-linux-arm64" "2.1.4"
+    "@biomejs/cli-linux-arm64-musl" "2.1.4"
+    "@biomejs/cli-linux-x64" "2.1.4"
+    "@biomejs/cli-linux-x64-musl" "2.1.4"
+    "@biomejs/cli-win32-arm64" "2.1.4"
+    "@biomejs/cli-win32-x64" "2.1.4"
+
+"@biomejs/cli-darwin-arm64@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/cli-darwin-arm64/-/cli-darwin-arm64-2.1.4.tgz#49248775aeb930aaf58d252631e7bfb1c1e95242"
+  integrity sha512-sCrNENE74I9MV090Wq/9Dg7EhPudx3+5OiSoQOkIe3DLPzFARuL1dOwCWhKCpA3I5RHmbrsbNSRfZwCabwd8Qg==
+
+"@biomejs/cli-darwin-x64@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/cli-darwin-x64/-/cli-darwin-x64-2.1.4.tgz#45b27d37c669a1c33fc51c7bb34e027b8a0165ec"
+  integrity sha512-gOEICJbTCy6iruBywBDcG4X5rHMbqCPs3clh3UQ+hRKlgvJTk4NHWQAyHOXvaLe+AxD1/TNX1jbZeffBJzcrOw==
+
+"@biomejs/cli-linux-arm64-musl@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/cli-linux-arm64-musl/-/cli-linux-arm64-musl-2.1.4.tgz#42713bb97fd6bec792dd2ce550b21f51cf9dddcd"
+  integrity sha512-nYr7H0CyAJPaLupFE2cH16KZmRC5Z9PEftiA2vWxk+CsFkPZQ6dBRdcC6RuS+zJlPc/JOd8xw3uCCt9Pv41WvQ==
+
+"@biomejs/cli-linux-arm64@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/cli-linux-arm64/-/cli-linux-arm64-2.1.4.tgz#3e7dbba720f0770b09963efd1ee41cbe549cadce"
+  integrity sha512-juhEkdkKR4nbUi5k/KRp1ocGPNWLgFRD4NrHZSveYrD6i98pyvuzmS9yFYgOZa5JhaVqo0HPnci0+YuzSwT2fw==
+
+"@biomejs/cli-linux-x64-musl@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/cli-linux-x64-musl/-/cli-linux-x64-musl-2.1.4.tgz#a69a816466fc6dd12cfe49326939dffc387247cb"
+  integrity sha512-lvwvb2SQQHctHUKvBKptR6PLFCM7JfRjpCCrDaTmvB7EeZ5/dQJPhTYBf36BE/B4CRWR2ZiBLRYhK7hhXBCZAg==
+
+"@biomejs/cli-linux-x64@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/cli-linux-x64/-/cli-linux-x64-2.1.4.tgz#2af8d21603c7dc7147163fb3e6aad83224afd9e0"
+  integrity sha512-Eoy9ycbhpJVYuR+LskV9s3uyaIkp89+qqgqhGQsWnp/I02Uqg2fXFblHJOpGZR8AxdB9ADy87oFVxn9MpFKUrw==
+
+"@biomejs/cli-win32-arm64@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/cli-win32-arm64/-/cli-win32-arm64-2.1.4.tgz#e7c28276fbe3ea3f172ea4ea177caeb0e3997aec"
+  integrity sha512-3WRYte7orvyi6TRfIZkDN9Jzoogbv+gSvR+b9VOXUg1We1XrjBg6WljADeVEaKTvOcpVdH0a90TwyOQ6ue4fGw==
+
+"@biomejs/cli-win32-x64@2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@biomejs/cli-win32-x64/-/cli-win32-x64-2.1.4.tgz#d85975098cf17c7f966b22106d3684c6fb2c7c46"
+  integrity sha512-tBc+W7anBPSFXGAoQW+f/+svkpt8/uXfRwDzN1DvnatkRMt16KIYpEi/iw8u9GahJlFv98kgHcIrSsZHZTR0sw==
+
 "@bundled-es-modules/cookie@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@bundled-es-modules/cookie/-/cookie-2.0.1.tgz#b41376af6a06b3e32a15241d927b840a9b4de507"
@@ -1098,11 +1152,6 @@
   version "9.1.1"
   resolved "https://registry.yarnpkg.com/@storybook/addon-onboarding/-/addon-onboarding-9.1.1.tgz#df2302e898965f6b4caab9e996b4900366d2bd81"
   integrity sha512-QHkirYjgHqhJMmD2riVJ4qvkwNif79phEJuMd+Zna2niT5MMkmFSd+lfLgbEYr6ufbL2OWnsoUmxRY5s3RgKQw==
-
-"@storybook/addon-styling-webpack@^2.0.0":
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-styling-webpack/-/addon-styling-webpack-2.0.0.tgz#3e854c82a835a6df439a69e307f337b39b4a4cab"
-  integrity sha512-N8jWhWnk3/nbL4P9zl0OEV/47P0Cxn/kPzSHjdAClyDYnqj9jI6upeLsraZgIV9Ro3QSeqeIloeXb1zMasWpOw==
 
 "@storybook/addon-themes@^9.1.1":
   version "9.1.1"
@@ -2865,6 +2914,11 @@ human-signals@^4.3.0:
   version "4.3.1"
   resolved "https://registry.yarnpkg.com/human-signals/-/human-signals-4.3.1.tgz#ab7f811e851fca97ffbd2c1fe9a958964de321b2"
   integrity sha512-nZXjEF2nbo7lIw3mgYjItAfgQXog3OjJogSbKa2CQIIvSGWcKgeJnQlNXip6NglNzYH45nSRiEVimMvYL8DDqQ==
+
+husky@^9.1.7:
+  version "9.1.7"
+  resolved "https://registry.yarnpkg.com/husky/-/husky-9.1.7.tgz#d46a38035d101b46a70456a850ff4201344c0b2d"
+  integrity sha512-5gs5ytaNjBrh5Ow3zrvdUUY+0VxIuWVL4i9irt6friV+BqdCfmV11CQTWMiBYWHbXhco+J1kHfTOUkePhCDvMA==
 
 iconv-lite@0.6.3, iconv-lite@^0.6.3:
   version "0.6.3"
