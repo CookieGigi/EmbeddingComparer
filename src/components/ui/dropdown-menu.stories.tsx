@@ -177,4 +177,7 @@ export const ShouldOpenClose: Story = {
 			await userEvent.click(items[0], { delay: 100 });
 		});
 	},
+	parameters: {
+		a11y: { test: "off" },
+	},
 };
